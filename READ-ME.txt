@@ -1,0 +1,9 @@
+LOG IN AS ADMIN 
+password: admin
+username: admin
+
+
+LOG IN AS USER
+
+password: user
+username: user
